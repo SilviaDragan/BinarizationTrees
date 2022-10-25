@@ -1,5 +1,9 @@
 # MPS-Proiect
 
-NU LUCRATI PE MASTER!!!!!!!!!!!!!!!!!!
+# Best practices:
+## DO NOT PUSH CHANGES DIRECTY ON TO MASTER
 
-fiecare va avea branch cu numele lui din care facem PR.
+1. git pull la master
+2. create new branch from master
+3. create pull request to development branch and wait for approval
+4. when a milestone is achieved, we will merge development branch into master
