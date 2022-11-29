@@ -31,7 +31,19 @@ class Add(Node):
     def __str__(self):
         return "ADD(" + self._val1.__str__() + ", " + self._val2.__str__() + ")" # reprezentare lininara
         # return "  ADD\n" + "  /  \\ \n" + self._val1.__str__() + "   " + self._val2.__str__() + "\n" # ba desenatul asta nu mi-a iesit facem alta functie de desenare frumos
+    
+    def set_val1(self, val):
+        self._val1 = val
 
+    def set_val2(self, val):
+        self._val2 = val
+
+    def get_val1(self):
+        return self._val1
+
+    def get_val2(self):
+        return self._val2
+    
 
 class Multiply(Node):
     _val1: Node
@@ -45,6 +57,17 @@ class Multiply(Node):
     def __str__(self):
         return "MUL(" + self._val1.__str__() + ", " + self._val2.__str__() + ")"
         # return "  MUL\n" + "  /  \\ \n" + self._val1.__str__() + "   " + self._val2.__str__() + "\n"
+    def set_val1(self, val):
+        self._val1 = val
+
+    def set_val2(self, val):
+        self._val2 = val
+
+    def get_val1(self):
+        return self._val1
+
+    def get_val2(self):
+        return self._val2
 
 
 """Mi-e frica ca asta o sa faca evaluarea sa dea cu minus
@@ -62,7 +85,18 @@ class Subtract(Node):
     def __str__(self):
         return "SUB(" + self._val1.__str__() + ", " + self._val2.__str__() + ")"
         # return "  SUB\n" + "  /  \\ \n" + self._val1.__str__() + "   " + self._val2.__str__() + "\n" # ba desenatul asta nu mi-a iesit facem alta functie de desenare frumos
+    
+    def set_val1(self, val):
+        self._val1 = val
 
+    def set_val2(self, val):
+        self._val2 = val
+    
+    def get_val1(self):
+        return self._val1
+
+    def get_val2(self):
+        return self._val2
 
 def build_mock_tree(thresholds):
     # model de alegere operatie random:
