@@ -1,4 +1,4 @@
-from binarization import Add, Subtract, Multiply, Threshold
+from binarization import Add, Subtract, Multiply, Divide, Threshold
 
 def evaluate_tree(root):
     if root.__class__.__name__ == Threshold.__name__:
@@ -13,7 +13,10 @@ def evaluate_tree(root):
     if root.__class__.__name__ == Subtract.__name__: 
        return abs(val_subtree1 - val_subtree2)
     
-
     if root.__class__.__name__ == Multiply.__name__:
        return val_subtree1 * val_subtree2
+
+    if root.__class__.__name__ == Divide.__name__:
+        # avoid dividing by 0 by replacing it with  1:)
+       return val_subtree1 / (val_subtree2 if val_subtree2 != 0 else 1)
     

@@ -2,7 +2,7 @@ from enum import Enum
 import random
 import sys
 
-from binarization import Add, Multiply, Subtract, Threshold, parse_input
+from binarization import Add, Multiply, Subtract, Divide, Threshold, parse_input
 from tree_evaluation import evaluate_tree
 
 N = 1 # numarul de generari random
@@ -11,8 +11,9 @@ class Operators(Enum):
     ADD = 1
     MULTIPLY = 2
     SUBTRACT = 3
+    DIVIDE = 4
 
-ops_list = [Operators.ADD, Operators.MULTIPLY, Operators.SUBTRACT];
+ops_list = [Operators.ADD, Operators.MULTIPLY, Operators.SUBTRACT, Operators.DIVIDE];
 
 def get_node(op):
      match op:
@@ -22,6 +23,8 @@ def get_node(op):
             return Multiply(None, None)
         case Operators.SUBTRACT:
             return Subtract(None, None)
+        case Operators.DIVIDE:
+            return Divide(None, None)
 
 def populate_tree_with_thresholds(queue, thresholds):
     index = 1

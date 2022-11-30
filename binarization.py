@@ -7,7 +7,6 @@ class Node:
     def __init__(self):
         pass
 
-
 class Threshold(Node):
     _val: float
 
@@ -50,6 +49,29 @@ class Add(Node):
     def get_val2(self):
         return self._val2
     
+class Divide(Node):
+    _val1: Node
+    _val2: Node
+
+    def __init__(self, val1: Node, val2: Node):
+        super().__init__()
+        self._val1 = val1
+        self._val2 = val2
+
+    def __str__(self):
+        return "DIV(" + self._val1.__str__() + ", " + self._val2.__str__() + ")"
+        # return "  DIV\n" + "  /  \\ \n" + self._val1.__str__() + "   " + self._val2.__str__() + "\n"
+    def set_val1(self, val):
+        self._val1 = val
+
+    def set_val2(self, val):
+        self._val2 = val
+
+    def get_val1(self):
+        return self._val1
+
+    def get_val2(self):
+        return self._val2
 
 class Multiply(Node):
     _val1: Node
@@ -74,7 +96,6 @@ class Multiply(Node):
 
     def get_val2(self):
         return self._val2
-
 
 """Mi-e frica ca asta o sa faca evaluarea sa dea cu minus
 Oh well anyway
