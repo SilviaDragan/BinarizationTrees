@@ -3,7 +3,7 @@ import random
 import sys
 
 from binarization import Add, Multiply, Subtract, Threshold, parse_input
-
+from tree_evaluation import evaluate_tree
 
 N = 1 # numarul de generari random
 
@@ -61,8 +61,13 @@ def generate_trees(thresholds):
         queue.append(node.get_val1())
         node.set_val2(Threshold(thresholds[1]))
         populate_tree_with_thresholds(queue, thresholds)
+        
+        print("tree generation")
         print(root)
-
+    
+        final_threshold = evaluate_tree(root)
+        print("final_threshold")
+        print(final_threshold)
 
 def main():
     # TODO: script prin care rulam codul cu toate fisierele pe rand

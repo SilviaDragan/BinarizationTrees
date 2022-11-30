@@ -15,6 +15,12 @@ class Threshold(Node):
         super().__init__()
         self._val = val
 
+    def set_val(self, val):
+        self._val = val
+
+    def get_val(self):
+        return self._val
+
     def __str__(self):
         return self._val.__str__()
 
@@ -137,8 +143,8 @@ def main():
     elif len(argv) == 2:
         fin = sys.argv[1]
     thresholds = parse_input(fin)
-    print(build_mock_tree(thresholds))
 
+    # print(build_mock_tree(thresholds))
     # print(Add(Threshold(1.5), Threshold(2.4)))
 
 if __name__ == '__main__':
