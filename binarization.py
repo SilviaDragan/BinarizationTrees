@@ -129,24 +129,3 @@ def parse_input(global_filename):
     # nu mai tin minte la ce folosea asta asa ca nu stiu ce nume sa ii dau
     ceva_urmatoarea_linie = ((global_input.split("\n"))[1]).split(",")
     return thresholds
-
-
-def main():
-    # TODO: script prin care rulam codul cu toate fisierele pe rand
-    argv = sys.argv
-    print(argv)
-
-    # deci ca sa intelegeti acesti oameni au decis sa dea numele fiserelor CU SPATIU !!!!!! DOAMNE FERESTE
-    # dar nu toate fisierele din input sunt cu spatiu, doar alea cu AVE.... sme :)
-    if len(argv) == 3:
-        fin = sys.argv[1] + " " + sys.argv[2]
-    elif len(argv) == 2:
-        fin = sys.argv[1]
-    thresholds = parse_input(fin)
-
-    # print(build_mock_tree(thresholds))
-    # print(Add(Threshold(1.5), Threshold(2.4)))
-
-if __name__ == '__main__':
-    # ca sa rulati adaugati ca parametri din Edit Configurations: MPS-Global/[AVE_INT] 2_1.CSV (sau oricare alt fisier)
-    main()
