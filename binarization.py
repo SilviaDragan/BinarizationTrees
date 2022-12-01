@@ -145,8 +145,8 @@ def parse_input(global_filename):
         global_input = g_input.read()
 
     thresholds = ((global_input.split("\n"))[0]).split(",")
+    f_measures = ((global_input.split("\n"))[1]).split(",")
+    
     print(f"thresholds= {thresholds}")
 
-    # nu mai tin minte la ce folosea asta asa ca nu stiu ce nume sa ii dau
-    ceva_urmatoarea_linie = ((global_input.split("\n"))[1]).split(",")
-    return thresholds
+    return (thresholds, f_measures)
