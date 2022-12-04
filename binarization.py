@@ -7,13 +7,18 @@ class Node:
     def __init__(self):
         pass
 
-
 class Threshold(Node):
     _val: float
 
     def __init__(self, val: float):
         super().__init__()
         self._val = val
+
+    def set_val(self, val):
+        self._val = val
+
+    def get_val(self):
+        return self._val
 
     def __str__(self):
         return self._val.__str__()
@@ -44,6 +49,29 @@ class Add(Node):
     def get_val2(self):
         return self._val2
     
+class Divide(Node):
+    _val1: Node
+    _val2: Node
+
+    def __init__(self, val1: Node, val2: Node):
+        super().__init__()
+        self._val1 = val1
+        self._val2 = val2
+
+    def __str__(self):
+        return "DIV(" + self._val1.__str__() + ", " + self._val2.__str__() + ")"
+        # return "  DIV\n" + "  /  \\ \n" + self._val1.__str__() + "   " + self._val2.__str__() + "\n"
+    def set_val1(self, val):
+        self._val1 = val
+
+    def set_val2(self, val):
+        self._val2 = val
+
+    def get_val1(self):
+        return self._val1
+
+    def get_val2(self):
+        return self._val2
 
 class Multiply(Node):
     _val1: Node
@@ -68,7 +96,6 @@ class Multiply(Node):
 
     def get_val2(self):
         return self._val2
-
 
 """Mi-e frica ca asta o sa faca evaluarea sa dea cu minus
 Oh well anyway
@@ -118,29 +145,8 @@ def parse_input(global_filename):
         global_input = g_input.read()
 
     thresholds = ((global_input.split("\n"))[0]).split(",")
+    f_measures = ((global_input.split("\n"))[1]).split(",")
+    
     print(f"thresholds= {thresholds}")
 
-    # nu mai tin minte la ce folosea asta asa ca nu stiu ce nume sa ii dau
-    ceva_urmatoarea_linie = ((global_input.split("\n"))[1]).split(",")
-    return thresholds
-
-
-def main():
-    # TODO: script prin care rulam codul cu toate fisierele pe rand
-    argv = sys.argv
-    print(argv)
-
-    # deci ca sa intelegeti acesti oameni au decis sa dea numele fiserelor CU SPATIU !!!!!! DOAMNE FERESTE
-    # dar nu toate fisierele din input sunt cu spatiu, doar alea cu AVE.... sme :)
-    if len(argv) == 3:
-        fin = sys.argv[1] + " " + sys.argv[2]
-    elif len(argv) == 2:
-        fin = sys.argv[1]
-    thresholds = parse_input(fin)
-    print(build_mock_tree(thresholds))
-
-    # print(Add(Threshold(1.5), Threshold(2.4)))
-
-if __name__ == '__main__':
-    # ca sa rulati adaugati ca parametri din Edit Configurations: MPS-Global/[AVE_INT] 2_1.CSV (sau oricare alt fisier)
-    main()
+    return (thresholds, f_measures)
