@@ -155,6 +155,8 @@ def parse_input_local(local_filename):
     pixelsInfo = local_input.split("\n")
     for p in pixelsInfo:
         pixelThresholds = p.split(",")
+        pixelThresholds = [x for x in pixelThresholds if x != '']
         allPixels.append(pixelThresholds)
 
-    return allPixels
+
+    return list(filter(None, allPixels))
