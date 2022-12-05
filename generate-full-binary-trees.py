@@ -3,7 +3,7 @@ import random
 import sys
 import math
 
-from binarization import Add, Multiply, Subtract, Divide, Threshold, parse_input
+from binarization import Add, Multiply, Subtract, Divide, Threshold, parse_input_global, parse_input_local
 from tree_evaluation import evaluate_tree
 
 N = 1 # numarul de generari random
@@ -99,8 +99,12 @@ def main():
     elif len(argv) == 2:
         fin = sys.argv[1]
     
-    thresholds, f_measures = parse_input(fin)
+    thresholds, f_measures = parse_input_global(fin)
     generate_trees(thresholds, f_measures)
+
+    #pixelsData = parse_input_local(fin)
+    #for p in pixelsData:
+    #    generate_trees(p[2:], p[1])
 
 if __name__ == '__main__':
     # ca sa rulati adaugati ca parametri din Edit Configurations: MPS-Global/[AVE_INT] 2_1.CSV (sau oricare alt fisier)

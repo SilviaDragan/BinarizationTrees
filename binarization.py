@@ -1,8 +1,3 @@
-import sys
-import random
-from typing import Set, Dict, Tuple, List
-
-
 class Node:
     def __init__(self):
         pass
@@ -138,8 +133,7 @@ def build_mock_tree(thresholds):
                       Subtract(Add(thresholds[12], thresholds[13]), Add(thresholds[14], thresholds[15]))))
 
 
-def parse_input(global_filename):
-    """Momentan doar pentru global"""
+def parse_input_global(global_filename):
     print(f"fin={global_filename}")
     with open(global_filename, 'r') as g_input:
         global_input = g_input.read()
@@ -150,3 +144,17 @@ def parse_input(global_filename):
     print(f"thresholds= {thresholds}")
 
     return (thresholds, f_measures)
+
+def parse_input_local(local_filename):
+    print(f"fin={local_filename}")
+    with open(local_filename, 'r') as l_input:
+        local_input = l_input.read()
+
+    allPixels = []
+
+    pixelsInfo = local_input.split("\n")
+    for p in pixelsInfo:
+        pixelThresholds = p.split(",")
+        allPixels.append(pixelThresholds)
+
+    return allPixels
