@@ -1,5 +1,8 @@
-from binarization import Add, Subtract, Multiply, Divide, Threshold
-
+from commons.tree_utils.add_node import Add
+from commons.tree_utils.subtract_node import Subtract
+from commons.tree_utils.multiply_node import Multiply
+from commons.tree_utils.divide_node import Divide
+from commons.tree_utils.threshold_node import Threshold
 
 def evaluate_tree(root):
     if root.__class__.__name__ == Threshold.__name__:
