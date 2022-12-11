@@ -7,17 +7,18 @@ from commons.tree_generation import generate_tree, populate_tree_with_thresholds
 from commons.tree_evaluation import evaluate_tree
 from file_loader import iterate_through_files
 
-N = 100 # number of trees to generate
+N = 500 # number of trees to generate
 NO_LEAVES = 15 # number of leaves in each global binarization tree
 MIN_F_MEASURE = 90 # minimum f-measure score for a threshold to be considered a match
+NO_TREES_RETURNED = 50
 
 files = [] # looks like: [(thresholds-file1, f_measures-file1), (thresholds-file2, f_measures-file2), ...]
-best_tree = None
 
 def main():
     files = iterate_through_files()
+    
+    best_trees = [] # unordered list of tuples (no_matches, tree)
     skip_current_tree = False # if True, skip the current tree and generate a new one
-    max_no_matches = -1 # current maximum of matches between a threshold after tree evaluation and the targetted threshold
 
     # generate N trees
     for i in range(N):
@@ -42,15 +43,21 @@ def main():
 
         if (skip_current_tree == True):
             continue
-            
-        if (no_matches > max_no_matches):
-            max_no_matches = no_matches
-            best_tree = tree_skeleton
+        # add the success rate and the tree to the list of candidate trees
+        best_trees.append((no_matches / len(files), tree_skeleton))
 
-    if (best_tree == None):
-        print("No tree found")
+    # sort the list of trees by the success rate in reverse order
+    best_trees.sort(key=lambda a: a[0], reverse=True)
+    if len(best_trees) > NO_TREES_RETURNED:
+        best_trees = best_trees[:NO_TREES_RETURNED]
+
+    if (len(best_trees) == 0):
+        print("No trees found")
     else:
-        print(f"Best tree: {best_tree} + {max_no_matches} / {len(files)}")
+        for i in range(len(best_trees)):
+            # puteti modifica sa se printeze doar arborii
+            format_float = "{:.3f}".format(best_trees[i][0])
+            print(f"Tree {i} with {format_float}% succes rate: {best_trees[i][1]}")
 
 if __name__ == '__main__':
     main()
