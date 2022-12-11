@@ -1,4 +1,4 @@
-from node import Node
+from .node import Node
 class Divide(Node):
     _val1: Node
     _val2: Node

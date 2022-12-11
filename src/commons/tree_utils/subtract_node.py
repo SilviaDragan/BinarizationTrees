@@ -1,4 +1,4 @@
-from node import Node
+from .node import Node
 
 class Subtract(Node):
     _val1: Node
