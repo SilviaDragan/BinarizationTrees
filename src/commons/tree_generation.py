@@ -7,8 +7,6 @@ from commons.tree_utils.multiply_node import Multiply
 from commons.tree_utils.divide_node import Divide
 from commons.tree_utils.threshold_node import Threshold
 
-N = 1 # numarul de generari random
-
 class Operators(Enum):
     ADD = 1
     MULTIPLY = 2
