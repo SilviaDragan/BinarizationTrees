@@ -1,11 +1,11 @@
 import os
 import sys
 sys.path.append(os.path.join(os.path.dirname(__file__), os.pardir))
-from commons.tree_generation import generate_trees, populate_tree_with_thresholds
+from commons.tree_generation import generate_tree, populate_tree_with_thresholds
 from global_binarization.file_loader import parse_input
 
 def main():
-    root = generate_trees(15)
+    root = generate_tree(15)
     print(root)
     argv = sys.argv
     print(argv)

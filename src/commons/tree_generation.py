@@ -41,36 +41,35 @@ def populate_tree_with_thresholds(root, thresholds):
     return root
     
 
-def generate_trees(number_of_thresholds):
-    for _ in range(N):
-        ops = []
-        for _ in range(number_of_thresholds - 1):
-            ops.append(random.choice(ops_list))
+def generate_tree(number_of_thresholds):
+    ops = []
+    for _ in range(number_of_thresholds - 1):
+        ops.append(random.choice(ops_list))
 
-        queue = []
-        index = 0
-        root = get_node(ops[index])
-        number_of_thresholds_available = 2
-        queue.append(root)
-        index += 1
+    queue = []
+    index = 0
+    root = get_node(ops[index])
+    number_of_thresholds_available = 2
+    queue.append(root)
+    index += 1
 
-        while len(queue) != 0:
-            node = queue.pop(0)
+    while len(queue) != 0:
+        node = queue.pop(0)
+        if (number_of_thresholds_available < number_of_thresholds):
+            node.set_val1(get_node(ops[index]))
+            index += 1
+            number_of_thresholds_available += 1
+            queue.append(node.get_val1())
+
             if (number_of_thresholds_available < number_of_thresholds):
-                node.set_val1(get_node(ops[index]))
+                node.set_val2(get_node(ops[index]))
                 index += 1
                 number_of_thresholds_available += 1
-                queue.append(node.get_val1())
-
-                if (number_of_thresholds_available < number_of_thresholds):
-                    node.set_val2(get_node(ops[index]))
-                    index += 1
-                    number_of_thresholds_available += 1
-                    queue.append(node.get_val2())
-                else :
-                    node.set_val2(Threshold(-1))
-
+                queue.append(node.get_val2())
             else :
-                node.set_val1(Threshold(-1))
                 node.set_val2(Threshold(-1))
-        return root
+
+        else :
+            node.set_val1(Threshold(-1))
+            node.set_val2(Threshold(-1))
+    return root

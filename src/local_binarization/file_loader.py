@@ -3,14 +3,14 @@ import sys
 sys.path.append(os.path.join(os.path.dirname(__file__), os.pardir))
 from copy import deepcopy
 import threading
-from commons.tree_generation import generate_trees, populate_tree_with_thresholds
+from commons.tree_generation import generate_tree, populate_tree_with_thresholds
 lock = threading.Lock()
 
 def iterate_through_files():
     ths = []
     thr_f_measure = []
     
-    tree = generate_trees(9)
+    tree = generate_tree(9)
     for filename in os.listdir("MPS-local"):
         if filename.endswith(".CSV"):
             # trebuie sa clonam tree ul la fiecare folosire, si sa refacem si popularea sa nu mai tina cont de coada
