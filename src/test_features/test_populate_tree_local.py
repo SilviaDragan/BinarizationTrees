@@ -2,7 +2,7 @@ import os
 import sys
 sys.path.append(os.path.join(os.path.dirname(__file__), os.pardir))
 from commons.tree_generation import generate_trees, populate_tree_with_thresholds
-from global_binarization.file_loader import parse_input
+from local_binarization.file_loader import parse_input
 
 def main():
     root = generate_trees(9)
