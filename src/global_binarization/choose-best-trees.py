@@ -38,10 +38,10 @@ def main():
                 interval_index = math.floor(255 * final_threshold)
                 f_measure_score = float(f_measures[interval_index])
 
-                if (f_measure_score > MIN_F_MEASURE):
+                if f_measure_score > MIN_F_MEASURE:
                     no_matches += 1
 
-        if (skip_current_tree == True):
+        if skip_current_tree == True:
             continue
         # add the success rate and the tree to the list of candidate trees
         best_trees.append((no_matches / len(files), tree_skeleton))
@@ -51,7 +51,7 @@ def main():
     if len(best_trees) > NO_TREES_RETURNED:
         best_trees = best_trees[:NO_TREES_RETURNED]
 
-    if (len(best_trees) == 0):
+    if len(best_trees) == 0:
         print("No trees found")
     else:
         for i in range(len(best_trees)):
