@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+.vscode
+src/global_binarization/MPS-Global/*
+src/test_features/[AVE_INT]\w2_1.CSV
