@@ -17,7 +17,7 @@ files = [] # looks like: [(thresholds-file1, f_measures-file1), (thresholds-file
 
 def main():
     files = iterate_through_files()
-    
+
     best_trees = [] # unordered list of tuples (no_matches, tree)
     skip_current_tree = False # if True, skip the current tree and generate a new one
 
