@@ -34,7 +34,7 @@ def parse_input(global_filename):
     # print(f"thresholds= {thresholds}")
     return (thresholds, f_measures)
 
-class FileLoader(threading.Thread):
+class FileLoader (threading.Thread):
     def __init__(self, filename, thr_f_measure):
         super(FileLoader, self).__init__()
         self.filename = filename
