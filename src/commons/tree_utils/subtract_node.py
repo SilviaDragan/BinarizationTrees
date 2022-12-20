@@ -1,5 +1,6 @@
 from .node import Node
 
+
 class Subtract(Node):
     _val1: Node
     _val2: Node
@@ -10,7 +11,7 @@ class Subtract(Node):
         self._val2 = val2
 
     def __str__(self):
-        return "SUB(" + self._val1.__str__() + ", " + self._val2.__str__() + ")"
+        return "SUB(" + self._val1.__str__() + "," + self._val2.__str__() + ")"
         # return "  SUB\n" + "  /  \\ \n" + self._val1.__str__() + "   " + self._val2.__str__() + "\n" # ba desenatul
         # asta nu mi-a iesit facem alta functie de desenare frumos
 

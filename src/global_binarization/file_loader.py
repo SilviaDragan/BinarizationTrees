@@ -23,6 +23,7 @@ def iterate_through_files():
         th.join()
     return thr_f_measure
 
+
 def get_training_files():
     ths = []
     thr_f_measure = []
@@ -41,6 +42,27 @@ def get_training_files():
     for th in ths:
         th.join()
     return thr_f_measure
+
+
+def get_test_files():
+    ths = []
+    thr_f_measure = []
+
+    with open("test_file.txt", 'r') as f_in:
+        train_files = [line.rstrip() for line in f_in]
+
+    for filename in train_files:
+        if filename.endswith(".CSV"):
+            # trebuie sa clonam tree ul la fiecare folosire, si sa refacem si popularea sa nu mai tina cont de coada
+            th = FileLoader("MPS-Global/" + filename, thr_f_measure)
+            th.start()
+            ths.append(th)
+
+    # wait for all threads to finish
+    for th in ths:
+        th.join()
+    return thr_f_measure
+
 
 def parse_input(global_filename):
     # print(f"fin={global_filename}")

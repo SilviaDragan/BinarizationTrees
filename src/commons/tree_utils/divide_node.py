@@ -9,7 +9,7 @@ class Divide(Node):
         self._val2 = val2
 
     def __str__(self):
-        return "DIV(" + self._val1.__str__() + ", " + self._val2.__str__() + ")"
+        return "DIV(" + self._val1.__str__() + "," + self._val2.__str__() + ")"
         # return "  DIV\n" + "  /  \\ \n" + self._val1.__str__() + "   " + self._val2.__str__() + "\n"
 
     def set_val1(self, val):

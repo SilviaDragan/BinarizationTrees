@@ -50,3 +50,4 @@ def choose_best_trees(files):
         best_trees = best_trees[:NO_TREES_RETURNED]
 
     return best_trees
+
