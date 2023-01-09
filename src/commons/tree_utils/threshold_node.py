@@ -1,5 +1,6 @@
 from .node import Node
 
+
 class Threshold(Node):
     _val: float
 
