@@ -10,6 +10,7 @@ from global_binarization.choose_best_trees import choose_best_trees
 # no_runs = numarul de rulari ale lui choose_best_trees
 # se vor face no_runs fisere in care avem arborii
 # momentan se vor suprascrie la fiecare rulare, o sa modific eu sa pastram toate rezultatele daca vreti
+# python3 run_training_tests.py 3
 def run_global(no_runs):
     files = get_training_files()
 

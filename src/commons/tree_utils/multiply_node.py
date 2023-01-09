@@ -9,8 +9,7 @@ class Multiply(Node):
         self._val2 = val2
 
     def __str__(self):
-        return "MUL(" + self._val1.__str__() + "," + self._val2.__str__() + ")"
-        # return "  MUL\n" + "  /  \\ \n" + self._val1.__str__() + "   " + self._val2.__str__() + "\n"
+        return "MUL " + self._val1.__str__() + " " + self._val2.__str__()
 
     def set_val1(self, val):
         self._val1 = val

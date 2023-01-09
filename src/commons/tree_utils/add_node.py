@@ -9,9 +9,7 @@ class Add(Node):
         self._val2 = val2
 
     def __str__(self):
-        return "ADD(" + self._val1.__str__() + "," + self._val2.__str__() + ")"  # reprezentare lininara
-        # return "  ADD\n" + "  /  \\ \n" + self._val1.__str__() + "   " + self._val2.__str__() + "\n" # ba desenatul
-        # asta nu mi-a iesit facem alta functie de desenare frumos
+        return "ADD " + self._val1.__str__() + " " + self._val2.__str__()
 
     def set_val1(self, val):
         self._val1 = val
