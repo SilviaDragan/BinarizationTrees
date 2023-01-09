@@ -4,13 +4,12 @@ import sys
 sys.path.append(os.path.join(os.path.dirname(__file__), os.pardir))
 
 from global_binarization.file_loader import get_test_files
-from global_binarization.choose_best_trees import choose_best_trees
 from commons.tree_utils.add_node import Add
 from commons.tree_utils.subtract_node import Subtract
 from commons.tree_utils.multiply_node import Multiply
 from commons.tree_utils.threshold_node import Threshold
 
-# TODO: REDO THIS
+
 def build_tree(tree_list):
     while tree_list:
         current = tree_list.pop()
