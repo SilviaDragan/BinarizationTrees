@@ -33,10 +33,12 @@ def populate_tree_with_thresholds(root, thresholds):
 
     while len(queue) != 0:
         node = queue.pop(0)
+        print(str(node))
         if isinstance(node, Threshold):
             node.set_val(thresholds[index])
             index += 1
         else:
+            print(node)
             queue.append(node.get_val1())
             queue.append(node.get_val2())
     return root

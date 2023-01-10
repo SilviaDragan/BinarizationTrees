@@ -1,6 +1,9 @@
 import os
 import sys
 
+from commons.tree_utils.divide_node import Divide
+from global_binarization.choose_best_trees import compare_final_trees
+
 sys.path.append(os.path.join(os.path.dirname(__file__), os.pardir))
 
 from global_binarization.file_loader import get_test_files
@@ -19,6 +22,8 @@ def build_tree(tree_list):
             return Multiply(build_tree(tree_list), build_tree(tree_list))
         elif current == "SUB":
             return Subtract(build_tree(tree_list), build_tree(tree_list))
+        elif current == "DIV":
+            return Divide(build_tree(tree_list), build_tree(tree_list))
         else:
             return Threshold(current)
 
@@ -30,7 +35,6 @@ def parse_trees_from_file(filename):
     for tree in trees_str:
         t = build_tree(tree)
         trees_parsed.append(t)
-        print(str(t))
 
     return trees_parsed
 
@@ -42,9 +46,12 @@ def choose_final_trees():
     for filename in os.listdir("best_trees_results"):
         trees.append(parse_trees_from_file("best_trees_results/" + filename))
 
-    for f in test_files:
-        # TODO: evaluate trees on test files and choose finals
-        pass
+    winners = compare_final_trees(test_files, trees)
+    f = open("winners/winners", "w")
+    for w in winners:
+        format_float = "{:.3f}".format(w[0])
+        f.write(str(w[1]) + " ")
+        f.write(f"Tree {w[1]} with {format_float}% success rate")
 
 
 if __name__ == '__main__':
