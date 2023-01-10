@@ -57,7 +57,7 @@ class FileLoader(threading.Thread):
         skip_current_tree = False
         print("Loading file: " + self.filename)
         all_pixels_data = parse_input(self.filename)
-        print(all_pixels_data)
+        # print(all_pixels_data)
         for pixel in all_pixels_data:
             self.tree = generate_tree(9)
             if len(pixel) >= 3:

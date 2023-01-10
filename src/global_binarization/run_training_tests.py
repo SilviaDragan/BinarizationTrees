@@ -43,9 +43,10 @@ def run_local(no_runs):
         if len(found_trees) == 0:
             print("No trees found")
         else:
-            for j in range(len(found_trees)):
+            f.write(str(found_trees[0]) + "\n")
+           # for j in range(len(found_trees)):
                 # doar arborii
-                f.write(str(found_trees[j]) + "\n")
+            #    f.write(str(found_trees[j]) + "\n")
                 # format_float = "{:.3f}".format(best_trees[i][0])
                 # f.write(f"Tree {i} with {format_float}% succes rate: {best_trees[i][1]}")
 
