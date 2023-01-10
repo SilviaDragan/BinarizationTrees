@@ -14,7 +14,7 @@ MIN_F_MEASURE = 90  # minimum f-measure score for a threshold to be considered a
 NO_TREES_RETURNED = 50
 
 
-def choose_best_trees(files):
+def choose_best_trees(files, no_leaves):
     best_trees = []  # unordered list of tuples (no_matches, tree)
     skip_current_tree = False  # if True, skip the current tree and generate a new one
 
@@ -22,7 +22,7 @@ def choose_best_trees(files):
     for i in range(N):
         skip_current_tree = False
         no_matches = 0  # number of evaluated thresholds that match with the targetted threshold
-        tree_skeleton = generate_tree(NO_LEAVES)  # only has operators and no thresholds
+        tree_skeleton = generate_tree(no_leaves)  # only has operators and no thresholds
 
         for j in range(len(files)):
             thresholds, f_measures = files[j]

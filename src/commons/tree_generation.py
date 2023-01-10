@@ -1,4 +1,3 @@
-# TODO NU mai functioneaza, o sa ii fac un update
 import random
 from enum import Enum
 
