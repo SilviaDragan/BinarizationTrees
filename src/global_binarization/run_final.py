@@ -49,8 +49,7 @@ def choose_final_trees():
     f = open("winners/winners", "w")
     for w in winners:
         format_float = "{:.3f}".format(w[0])
-        f.write(str(w[1]) + " ")
-        f.write(f"Tree {w[1]} with {format_float}% success rate")
+        f.write(f"Tree {w[1]} with {format_float}% success rate \n")
 
 
 if __name__ == '__main__':
