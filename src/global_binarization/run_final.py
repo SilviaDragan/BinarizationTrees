@@ -1,10 +1,9 @@
 import os
 import sys
 
+sys.path.append(os.path.join(os.path.dirname(__file__), os.pardir))
 from commons.tree_utils.divide_node import Divide
 from global_binarization.choose_best_trees import compare_final_trees
-
-sys.path.append(os.path.join(os.path.dirname(__file__), os.pardir))
 
 from global_binarization.file_loader import get_test_files
 from commons.tree_utils.add_node import Add
