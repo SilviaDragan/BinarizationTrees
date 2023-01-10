@@ -59,6 +59,7 @@ class FileLoader(threading.Thread):
         all_pixels_data = parse_input(self.filename)
         print(all_pixels_data)
         for pixel in all_pixels_data:
+            self.tree = generate_tree(9)
             if len(pixel) >= 3:
                 # tree resulted from one pixel -> to choose best tree on file
                 pixel_measures = pixel[2:]
@@ -72,5 +73,7 @@ class FileLoader(threading.Thread):
                     tree_result_map.append([result, tree])
         tree_result_map.sort(key=lambda a: a[0], reverse=True)
         lock.acquire()
-        self.thr_f_measure = tree_result_map[:(min(NO_TREES_RETURNED, len(tree_result_map)))][1]
+        first_fifty_trees = tree_result_map[:(min(NO_TREES_RETURNED, len(tree_result_map)))]
+        for i in first_fifty_trees:
+            self.thr_f_measure.append(i[1])
         lock.release()
