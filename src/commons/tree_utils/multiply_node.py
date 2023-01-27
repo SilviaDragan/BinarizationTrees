@@ -1,4 +1,6 @@
 from .node import Node
+
+
 class Multiply(Node):
     _val1: Node
     _val2: Node
