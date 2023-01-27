@@ -31,8 +31,6 @@ def run_global(no_runs):
             for j in range(len(best_trees)):
                 # doar arborii
                 f.write(str(best_trees[j][1]) + "\n")
-                # format_float = "{:.3f}".format(best_trees[i][0])
-                # f.write(f"Tree {i} with {format_float}% succes rate: {best_trees[i][1]}")
 
 
 def run_local(no_runs):
@@ -47,16 +45,13 @@ def run_local(no_runs):
             print("No trees found")
         else:
             f.write(str(found_trees[0]) + "\n")
-           # for j in range(len(found_trees)):
-                # doar arborii
-            #    f.write(str(found_trees[j]) + "\n")
-                # format_float = "{:.3f}".format(best_trees[i][0])
-                # f.write(f"Tree {i} with {format_float}% succes rate: {best_trees[i][1]}")
 
 
 if __name__ == '__main__':
     argv = sys.argv
     print(argv)
+    no_runs = int(argv[1])
+    run_global(no_runs)
+
+    # keep no runs to 1 as it takes a lot of time
     run_local(1)
-    #no_runs = int(argv[1])
-    #run_global(no_runs)
