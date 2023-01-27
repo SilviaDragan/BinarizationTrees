@@ -21,7 +21,10 @@ def run_global(no_runs):
         fname = base_filename + str(i)
         f = open(fname, "w")
 
-        best_trees = choose_best_trees(files, 15)
+        best_trees = choose_best_trees(files)
+        for tree in best_trees:
+            print(str(tree[1]))
+
         if len(best_trees) == 0:
             print("No trees found")
         else:
