@@ -1,0 +1,836 @@
+[NoisyOffice]Fontftm_Noisef_TE.CSV
+[NoisyOffice]FontLte_Noisep_TR.CSV
+[cmaterdb4.3]097.CSV
+[NouvelObservateur]129_nouvel-obs_hbhnr300_constructedPdf_Nouvelobs2402PDF.CSV
+[S-MS]z80-F2s.CSV
+[MAX_INT]9_9.CSV
+[AVE_INT] 5_10.CSV
+[S-MS]z92-F4s.CSV
+[S-MS]z100-F2s.CSV
+[NouvelObservateur]96_nouvel-obs_hbhnr300_constructedPdf_Nouvelobs2402PDF.CSV
+[S-MS]z59-F2s.CSV
+[S-MS]z822-F8s.CSV
+[MAX_INT]3_14.CSV
+[S-MS]z60-F1s.CSV
+[DIBCO_2011]MP_PR5.CSV
+[S-MS]z59-F6s.CSV
+[S-MS]z65-F8s.CSV
+[NoisyOffice]Fontnre_Noisew_TR.CSV
+[PalmLeaf-PL1]Bangli-P18.CSV
+[PalmLeaf-PL1]IIA-5-789-P3.CSV
+[AVE_INT] 9_12.CSV
+[AVE_INT] 2_8.CSV
+[PalmLeaf-PL1]IIIB-12-306-P6.CSV
+[PalmLeaf-PL1]IIIC-23-1506-P7.CSV
+[NouvelObservateur]176_nouvel-obs_hbhnr300_constructedPdf_Nouvelobs2402PDF.CSV
+[MAX_INT]3_12.CSV
+[S-MS]z37-F5s.CSV
+[cmaterdb4.3]018.CSV
+[NouvelObservateur]107_nouvel-obs_hbhnr300_constructedPdf_Nouvelobs2402PDF.CSV
+[S-MS]z60-F6s.CSV
+[MAX_INT]6_2.CSV
+[NouvelObservateur]120_nouvel-obs_hbhnr300_constructedPdf_Nouvelobs2402PDF.CSV
+[NoisyOffice]Fontnte_Noisec_TR.CSV
+[S-MS]z80-F5s.CSV
+[DIBCO_2017]5.CSV
+[S-MS]z95-F1s.CSV
+[NouvelObservateur]140_nouvel-obs_hbhnr300_constructedPdf_Nouvelobs2402PDF.CSV
+[NoisyOffice]Fontnrm_Noisec_VA.CSV
+[AVE_INT] 4_11.CSV
+[S-MS]z68-F1s.CSV
+[NoisyOffice]Fontnrm_Noisep_VA.CSV
+[MAX_INT]8_5.CSV
+[AVE_INT] 2_2.CSV
+[Salzinnes]018.CSV
+[MAX_INT]8_13.CSV
+[S-MS]z36-F7s.CSV
+[DIBCO_2019]20.CSV
+[NoisyOffice]Fontnrm_Noisew_TE.CSV
+[MAX_INT]6_12.CSV
+[NouvelObservateur]182_nouvel-obs_hbhnr300_constructedPdf_Nouvelobs2402PDF.CSV
+[MAX_INT]8_1.CSV
+[NoisyOffice]FontLtm_Noisef_TR.CSV
+[AVE_INT] 2_10.CSV
+[PalmLeaf-PL1]IIIC-23-1506-P4.CSV
+[DIBCO_2012]HW_H09.CSV
+[DIBCO_2013]HW_PR01.CSV
+[MAX_INT]5_10.CSV
+[PHIBD_2012]HW_Persian07.CSV
+[NoisyOffice]Fontfsm_Noisep_VA.CSV
+[NouvelObservateur]157_nouvel-obs_hbhnr300_constructedPdf_Nouvelobs2402PDF.CSV
+[AVE_INT] 5_5.CSV
+[MAX_INT]4_15.CSV
+[cmaterdb4.3]068.CSV
+[Nabuco]0149.CSV
+[NouvelObservateur]64_nouvel-obs_hbhnr300_constructedPdf_Nouvelobs2402PDF.CSV
+[S-MS]z64-F5s.CSV
+[S-MS]z100-F6s.CSV
+[NoisyOffice]Fontnsm_Noisef_TR.CSV
+[MAX_INT]3_3.CSV
+[S-MS]z36-F2s.CSV
+[NoisyOffice]Fontfre_Noisew_VA.CSV
+[NoisyOffice]Fontfte_Noisep_VA.CSV
+[NoisyOffice]Fontfte_Noisec_TE.CSV
+[MAX_INT]8_15.CSV
+[MAX_INT]8_14.CSV
+[LiveMemory]sbt88_pag_133.CSV
+[S-MS]z80-F7s.CSV
+[NoisyOffice]Fontfsm_Noisep_TE.CSV
+[NoisyOffice]Fontnsm_Noisec_VA.CSV
+[NoisyOffice]Fontnrm_Noisep_TE.CSV
+[DIBCO_2017]14.CSV
+[MAX_INT]10_1.CSV
+[PalmLeaf-PL1]IIB-2-180-P1.CSV
+[S-MS]z592-F7s.CSV
+[NouvelObservateur]202_nouvel-obs_hbhnr300_constructedPdf_Nouvelobs2402PDF.CSV
+[MAX_INT]7_10.CSV
+[PalmLeaf-PL1]IIIB-45-2296-P8.CSV
+[S-MS]z90-F7s.CSV
+[DIBCO_2017]3.CSV
+[NoisyOffice]FontLse_Noisew_TR.CSV
+[DIBCO_2011]MP_PR3.CSV
+[S-MS]z30-F8s.CSV
+[NouvelObservateur]165_nouvel-obs_hbhnr300_constructedPdf_Nouvelobs2402PDF.CSV
+[NoisyOffice]Fontftm_Noisep_VA.CSV
+[S-MS]z48-F2s.CSV
+[NouvelObservateur]103_nouvel-obs_hbhnr300_constructedPdf_Nouvelobs2402PDF.CSV
+[PalmLeaf-PL1]IIA-5-789-P5.CSV
+[S-MS]z48-F6s.CSV
+[AVE_INT] 10_8.CSV
+[NoisyOffice]FontLte_Noisec_VA.CSV
+[cmaterdb4.3]013.CSV
+[NoisyOffice]Fontfrm_Noisew_TE.CSV
+[S-MS]z36-F5s.CSV
+[AVE_INT] 6_11.CSV
+[NouvelObservateur]102_nouvel-obs_hbhnr300_constructedPdf_Nouvelobs2402PDF.CSV
+[NoisyOffice]FontLsm_Noisep_TE.CSV
+[DIBCO_2013]HW_HW08.CSV
+[S-MS]z822-F2s.CSV
+[S-MS]z31-F3s.CSV
+[S-MS]z95-F7s.CSV
+[MAX_INT]10_6.CSV
+[NouvelObservateur]136_nouvel-obs_hbhnr300_constructedPdf_Nouvelobs2402PDF.CSV
+[MAX_INT]8_4.CSV
+[S-MS]z37-F4s.CSV
+[PalmLeaf-PL1]IIA-10-1534-P3.CSV
+[S-MS]z80-F4s.CSV
+[S-MS]z67-F1s.CSV
+[NouvelObservateur]72_nouvel-obs_hbhnr300_constructedPdf_Nouvelobs2402PDF.CSV
+[PalmLeaf-PL1]IIA-5-789-P6.CSV
+[AVE_INT] 3_12.CSV
+[S-MS]z38-F5s.CSV
+[S-MS]z76-F3s.CSV
+[NoisyOffice]Fontnsm_Noisew_TR.CSV
+[cmaterdb4.3]004.CSV
+[S-MS]z82-F4s.CSV
+[PalmLeaf-PL1]MB-TaruPramana-P34.CSV
+[cmaterdb4.3]003.CSV
+[S-MS]z48-F5s.CSV
+[MAX_INT]7_4.CSV
+[NoisyOffice]FontLrm_Noisec_TE.CSV
+[DIBCO_2017]7.CSV
+[NoisyOffice]Fontftm_Noisec_TE.CSV
+[RahulSharma]image00.CSV
+[S-MS]z82-F1s.CSV
+[PalmLeaf-PL1]MB-TaruPramana-P30.CSV
+[PalmLeaf-PL1]IIB-2-180-P5.CSV
+[AVE_INT] 3_4.CSV
+[NouvelObservateur]123_nouvel-obs_hbhnr300_constructedPdf_Nouvelobs2402PDF.CSV
+[cmaterdb4.2]021.CSV
+[MAX_INT]6_7.CSV
+[S-MS]z90-F2s.CSV
+[AVE_INT] 2_12.CSV
+[MAX_INT]2_1.CSV
+[AVE_INT] 3_7.CSV
+[cmaterdb4.3]062.CSV
+[DIBCO_2013]HW_PR08.CSV
+[NoisyOffice]Fontnte_Noisep_VA.CSV
+[AVE_INT] 9_10.CSV
+[NoisyOffice]FontLre_Noisef_TR.CSV
+[NouvelObservateur]133_nouvel-obs_hbhnr300_constructedPdf_Nouvelobs2402PDF.CSV
+[AVE_INT] 7_6.CSV
+[NoisyOffice]Fontfse_Noisec_VA.CSV
+[NoisyOffice]Fontnte_Noisew_TE.CSV
+[MAX_INT]4_12.CSV
+[H-DIBCO_2010]HW_H02.CSV
+[cmaterdb4.3]041.CSV
+[NoisyOffice]Fontfsm_Noisec_VA.CSV
+[S-MS]z68-F4s.CSV
+[DIBCO_2011]MP_PR4.CSV
+[DIBCO_2019]12.CSV
+[MAX_INT]4_5.CSV
+[PalmLeaf-PL1]IIIC-19-1293-P3.CSV
+[NoisyOffice]FontLrm_Noisep_TR.CSV
+[AVE_INT] 8_8.CSV
+[PalmLeaf-PL1]IIIC-20-1397-P1.CSV
+[MAX_INT]2_8.CSV
+[AVE_INT] 6_15.CSV
+[H-DIBCO_2016]HW_3.CSV
+[NoisyOffice]Fontfse_Noisef_VA.CSV
+[DIBCO_2011]HW_HW2.CSV
+[RahulSharma]image00a.CSV
+[NouvelObservateur]40_nouvel-obs_hbhnr300_constructedPdf_Nouvelobs2402PDF.CSV
+[LiveMemory]sbt91_imag_018.CSV
+[cmaterdb4.3]057.CSV
+[DIBCO_2009]MP_P04.CSV
+[S-MS]z70-F5s.CSV
+[S-MS]z92-F6s.CSV
+[NouvelObservateur]84_nouvel-obs_hbhnr300_constructedPdf_Nouvelobs2402PDF.CSV
+[NoisyOffice]FontLse_Noisep_TE.CSV
+[NouvelObservateur]42_nouvel-obs_hbhnr300_constructedPdf_Nouvelobs2402PDF.CSV
+[NouvelObservateur]160_nouvel-obs_hbhnr300_constructedPdf_Nouvelobs2402PDF.CSV
+[cmaterdb4.3]052.CSV
+[MAX_INT]8_6.CSV
+[AVE_INT] 4_1.CSV
+[NoisyOffice]Fontnte_Noisec_TE.CSV
+[NoisyOffice]Fontftm_Noisec_TR.CSV
+[LiveMemory]sbt98_pag_084.CSV
+[NoisyOffice]FontLtm_Noisec_TE.CSV
+[S-MS]z822-F6s.CSV
+[NouvelObservateur]125_nouvel-obs_hbhnr300_constructedPdf_Nouvelobs2402PDF.CSV
+[DIBCO_2013]HW_PR04.CSV
+[DIBCO_2011]HW_HW5.CSV
+[S-MS]z90-F3s.CSV
+[S-MS]z31-F1s.CSV
+[DIBCO_2012]HW_H08.CSV
+[NouvelObservateur]34_nouvel-obs_hbhnr300_constructedPdf_Nouvelobs2402PDF.CSV
+[S-MS]z37-F2s.CSV
+[NoisyOffice]FontLte_Noisef_TE.CSV
+[S-MS]z34-F8s.CSV
+[NoisyOffice]Fontfrm_Noisec_TR.CSV
+[NoisyOffice]Fontnre_Noisew_VA.CSV
+[NoisyOffice]FontLtm_Noisec_VA.CSV
+[DIBCO_2019]1.CSV
+[NoisyOffice]Fontnsm_Noisep_VA.CSV
+[S-MS]z30-F7s.CSV
+[NouvelObservateur]137_nouvel-obs_hbhnr300_constructedPdf_Nouvelobs2402PDF.CSV
+[DIBCO_2013]HW_HW03.CSV
+[DIBCO_2013]HW_HW04.CSV
+[H-DIBCO_2016]HW_1.CSV
+[NouvelObservateur]128_nouvel-obs_hbhnr300_constructedPdf_Nouvelobs2402PDF.CSV
+[S-MS]z60-F3s.CSV
+[S-MS]z95-F6s.CSV
+[MAX_INT]4_11.CSV
+[RahulSharma]paper2.CSV
+[NouvelObservateur]90_nouvel-obs_hbhnr300_constructedPdf_Nouvelobs2402PDF.CSV
+[DIBCO_2019]8.CSV
+[H-DIBCO_2014]HW_H08.CSV
+[NoisyOffice]Fontfre_Noisef_TR.CSV
+[AVE_INT] 8_4.CSV
+[H-DIBCO_2014]HW_H06.CSV
+[NoisyOffice]Fontfrm_Noisep_VA.CSV
+[H-DIBCO_2014]HW_H01.CSV
+[H-DIBCO_2016]HW_2.CSV
+[S-MS]z34-F7s.CSV
+[S-MS]z592-F8s.CSV
+[AVE_INT] 10_10.CSV
+[NoisyOffice]Fontnsm_Noisef_TE.CSV
+[cmaterdb4.3]092.CSV
+[AVE_INT] 4_14.CSV
+[NoisyOffice]FontLsm_Noisep_VA.CSV
+[NoisyOffice]Fontfte_Noisew_VA.CSV
+[NoisyOffice]FontLrm_Noisew_VA.CSV
+[AVE_INT] 5_2.CSV
+[NouvelObservateur]116_nouvel-obs_hbhnr300_constructedPdf_Nouvelobs2402PDF.CSV
+[cmaterdb4.2]064.CSV
+[AVE_INT] 10_11.CSV
+[PalmLeaf-PL1]IIIB-12-306-P4.CSV
+[DIBCO_2013]HW_PR05.CSV
+[NoisyOffice]Fontfre_Noisep_VA.CSV
+[MAX_INT]4_9.CSV
+[MAX_INT]8_10.CSV
+[NoisyOffice]Fontftm_Noisec_VA.CSV
+[PalmLeaf-PL1]IIA-5-789-P2.CSV
+[MAX_INT]6_9.CSV
+[PalmLeaf-PL1]Bangli-P10.CSV
+[PalmLeaf-PL1]IIIC-24-1641-P6.CSV
+[AVE_INT] 6_10.CSV
+[S-MS]z27-F3s.CSV
+[DIBCO_2011]HW_HW6.CSV
+[Einsieldeln]e-codices_sbe-0611_004r_Layered.CSV
+[S-MS]z76-F8s.CSV
+[S-MS]z27-F5s.CSV
+[NouvelObservateur]78_nouvel-obs_hbhnr300_constructedPdf_Nouvelobs2402PDF.CSV
+[H-DIBCO_2014]HW_H09.CSV
+[Einsieldeln]e-codices_sbe-0611_005v_Layered.CSV
+[NoisyOffice]Fontnse_Noisef_VA.CSV
+[PalmLeaf-PL1]JG-05-P8.CSV
+[S-MS]z32-F4s.CSV
+[MAX_INT]10_12.CSV
+[S-MS]z68-F6s.CSV
+[PalmLeaf-PL1]IIA-5-789-P8.CSV
+[MAX_INT]7_15.CSV
+[NoisyOffice]Fontnre_Noisec_VA.CSV
+[AVE_INT] 8_9.CSV
+[NoisyOffice]Fontntm_Noisew_TR.CSV
+[S-MS]z70-F6s.CSV
+[cmaterdb4.2]065.CSV
+[S-MS]z34-F2s.CSV
+[cmaterdb4.2]050.CSV
+[NoisyOffice]Fontnte_Noisef_TE.CSV
+[S-MS]z68-F5s.CSV
+[PalmLeaf-PL1]Bangli-P75.CSV
+[MAX_INT]2_14.CSV
+[Nabuco]1225.CSV
+[AVE_INT] 7_12.CSV
+[RahulSharma]paper3a.CSV
+[AVE_INT] 9_3.CSV
+[AVE_INT] 2_7.CSV
+[H-DIBCO_2010]HW_H03.CSV
+[MAX_INT]10_4.CSV
+[PalmLeaf-PL1]IIB-2-180-P6.CSV
+[NoisyOffice]FontLsm_Noisec_VA.CSV
+[S-MS]z80-F8s.CSV
+[PalmLeaf-PL1]IIIC-24-1641-P1.CSV
+[DIBCO_2013]HW_HW02.CSV
+[MAX_INT]10_3.CSV
+[Nabuco]1221.CSV
+[PalmLeaf-PL1]Bangli-P17.CSV
+[PalmLeaf-PL1]IIIB-42-1526-P1.CSV
+[NoisyOffice]FontLte_Noisec_TE.CSV
+[DIBCO_2017]15.CSV
+[LiveMemory]sbt99_pag_001.CSV
+[Nabuco]1247.CSV
+[DIBCO_2013]HW_PR03.CSV
+[S-MS]z34-F1s.CSV
+[AVE_INT] 8_2.CSV
+[MAX_INT]9_7.CSV
+[MAX_INT]6_13.CSV
+[PalmLeaf-PL1]MB-TaruPramana-P23.CSV
+[S-MS]z59-F1s.CSV
+[AVE_INT] 2_5.CSV
+[AVE_INT] 7_13.CSV
+[NouvelObservateur]100_nouvel-obs_hbhnr300_constructedPdf_Nouvelobs2402PDF.CSV
+[DIBCO_2017]13.CSV
+[NoisyOffice]Fontftm_Noisep_TR.CSV
+[NoisyOffice]Fontnse_Noisep_TR.CSV
+[S-MS]z68-F2s.CSV
+[S-MS]z31-F7s.CSV
+[NouvelObservateur]171_nouvel-obs_hbhnr300_constructedPdf_Nouvelobs2402PDF.CSV
+[NoisyOffice]Fontfse_Noisef_TE.CSV
+[MAX_INT]10_2.CSV
+[NoisyOffice]Fontfte_Noisep_TE.CSV
+[AVE_INT] 2_4.CSV
+[AVE_INT] 10_15.CSV
+[LiveMemory]sbt94_Pag_467.CSV
+[AVE_INT] 5_3.CSV
+[NoisyOffice]Fontfte_Noisep_TR.CSV
+[DIBCO_2019]13.CSV
+[NoisyOffice]Fontnrm_Noisef_TR.CSV
+[Einsieldeln]e-codices_sbe-0611_0001r_Layered.CSV
+[PalmLeaf-PL1]MB-TaruPramana-P31.CSV
+[S-MS]z36-F8s.CSV
+[NouvelObservateur]57_nouvel-obs_hbhnr300_constructedPdf_Nouvelobs2402PDF.CSV
+[NoisyOffice]Fontnrm_Noisep_TR.CSV
+[S-MS]z60-F5s.CSV
+[AVE_INT] 7_5.CSV
+[NouvelObservateur]131_nouvel-obs_hbhnr300_constructedPdf_Nouvelobs2402PDF.CSV
+[NoisyOffice]FontLsm_Noisep_TR.CSV
+[S-MS]z38-F4s.CSV
+[NouvelObservateur]18_nouvel-obs_hbhnr300_constructedPdf_Nouvelobs2402PDF.CSV
+[AVE_INT] 5_4.CSV
+[AVE_INT] 6_9.CSV
+[NoisyOffice]Fontnrm_Noisef_TE.CSV
+[S-MS]z70-F2s.CSV
+[S-MS]z32-F3s.CSV
+[AVE_INT] 7_15.CSV
+[MAX_INT]2_4.CSV
+[DIBCO_2012]HW_H07.CSV
+[S-MS]z60-F7s.CSV
+[AVE_INT] 5_8.CSV
+[S-MS]z95-F5s.CSV
+[NouvelObservateur]126_nouvel-obs_hbhnr300_constructedPdf_Nouvelobs2402PDF.CSV
+[S-MS]z27-F2s.CSV
+[AVE_INT] 10_6.CSV
+[NoisyOffice]Fontfre_Noisep_TE.CSV
+[NouvelObservateur]166_nouvel-obs_hbhnr300_constructedPdf_Nouvelobs2402PDF.CSV
+[S-MS]z38-F7s.CSV
+[H-DIBCO_2014]HW_H03.CSV
+[S-MS]z592-F3s.CSV
+[NouvelObservateur]94_nouvel-obs_hbhnr300_constructedPdf_Nouvelobs2402PDF.CSV
+[NoisyOffice]FontLre_Noisew_TE.CSV
+[H-DIBCO_2016]HW_9.CSV
+[DIBCO_2013]HW_PR07.CSV
+[MAX_INT]4_3.CSV
+[AVE_INT] 6_4.CSV
+[NoisyOffice]Fontfte_Noisec_VA.CSV
+[S-MS]z95-F8s.CSV
+[NoisyOffice]FontLrm_Noisec_VA.CSV
+[S-MS]z64-F4s.CSV
+[MAX_INT]2_10.CSV
+[cmaterdb4.2]045.CSV
+[NoisyOffice]Fontnte_Noisew_VA.CSV
+[AVE_INT] 2_13.CSV
+[PalmLeaf-PL1]Bangli-P14.CSV
+[AVE_INT] 8_3.CSV
+[AVE_INT] 2_15.CSV
+[NouvelObservateur]48_nouvel-obs_hbhnr300_constructedPdf_Nouvelobs2402PDF.CSV
+[PalmLeaf-PL1]Bangli-P73.CSV
+[AVE_INT] 8_1.CSV
+[NoisyOffice]FontLre_Noisep_TR.CSV
+[PalmLeaf-PL1]IIIC-23-1506-P2.CSV
+[MAX_INT]4_14.CSV
+[DIBCO_2012]HW_H10.CSV
+[Nabuco]0024.CSV
+[MAX_INT]7_9.CSV
+[S-MS]z67-F2s.CSV
+[S-MS]z65-F6s.CSV
+[H-DIBCO_2016]HW_7.CSV
+[NoisyOffice]Fontnte_Noisec_VA.CSV
+[S-MS]z82-F5s.CSV
+[S-MS]z95-F4s.CSV
+[PalmLeaf-PL1]Bangli-P12.CSV
+[PalmLeaf-PL1]JG-01-P10.CSV
+[AVE_INT] 3_15.CSV
+[AVE_INT] 2_14.CSV
+[Salzinnes]014.CSV
+[Nabuco]0830.CSV
+[cmaterdb4.2]089.CSV
+[DIBCO_2009]HW_H01.CSV
+[DIBCO_2017]12.CSV
+[S-MS]z43-F8s.CSV
+[NouvelObservateur]172_nouvel-obs_hbhnr300_constructedPdf_Nouvelobs2402PDF.CSV
+[AVE_INT] 9_14.CSV
+[cmaterdb4.3]051.CSV
+[AVE_INT] 3_14.CSV
+[PalmLeaf-PL1]MB-TaruPramana-P27.CSV
+[S-MS]z65-F2s.CSV
+[AVE_INT] 4_4.CSV
+[NoisyOffice]FontLse_Noisew_VA.CSV
+[cmaterdb4.3]069.CSV
+[NoisyOffice]Fontntm_Noisep_TR.CSV
+[NoisyOffice]Fontfte_Noisef_VA.CSV
+[cmaterdb4.3]075.CSV
+[S-MS]z582-F8s.CSV
+[S-MS]z67-F6s.CSV
+[S-MS]z60-F8s.CSV
+[MAX_INT]7_7.CSV
+[LiveMemory]sbt99_pag_006.CSV
+[AVE_INT] 10_5.CSV
+[PHIBD_2012]HW_Persian04.CSV
+[S-MS]z37-F3s.CSV
+[NoisyOffice]Fontnse_Noisep_TE.CSV
+[NoisyOffice]Fontnre_Noisep_VA.CSV
+[NoisyOffice]Fontfse_Noisew_VA.CSV
+[AVE_INT] 6_13.CSV
+[NoisyOffice]FontLre_Noisec_TE.CSV
+[AVE_INT] 6_2.CSV
+[NoisyOffice]Fontntm_Noisew_VA.CSV
+[cmaterdb4.2]000.CSV
+[MAX_INT]3_8.CSV
+[AVE_INT] 7_7.CSV
+[S-MS]z70-F3s.CSV
+[NoisyOffice]FontLtm_Noisep_TR.CSV
+[DIBCO_2012]HW_H04.CSV
+[NoisyOffice]Fontfre_Noisef_TE.CSV
+[H-DIBCO_2010]HW_H04.CSV
+[NouvelObservateur]152_nouvel-obs_hbhnr300_constructedPdf_Nouvelobs2402PDF.CSV
+[NoisyOffice]Fontntm_Noisef_TE.CSV
+[S-MS]z31-F6s.CSV
+[S-MS]z92-F3s.CSV
+[MAX_INT]5_4.CSV
+[PalmLeaf-PL1]IIIB-45-2296-P7.CSV
+[PHIBD_2012]HW_Persian12.CSV
+[S-MS]z92-F8s.CSV
+[H-DIBCO_2016]HW_5.CSV
+[MAX_INT]8_12.CSV
+[NouvelObservateur]81_nouvel-obs_hbhnr300_constructedPdf_Nouvelobs2402PDF.CSV
+[NouvelObservateur]148_nouvel-obs_hbhnr300_constructedPdf_Nouvelobs2402PDF.CSV
+[NouvelObservateur]66_nouvel-obs_hbhnr300_constructedPdf_Nouvelobs2402PDF.CSV
+[NoisyOffice]FontLse_Noisep_TR.CSV
+[AVE_INT] 7_14.CSV
+[DIBCO_2011]HW_HW8.CSV
+[NoisyOffice]Fontnrm_Noisef_VA.CSV
+[MAX_INT]3_1.CSV
+[NoisyOffice]FontLse_Noisec_VA.CSV
+[S-MS]z95-F2s.CSV
+[NouvelObservateur]46_nouvel-obs_hbhnr300_constructedPdf_Nouvelobs2402PDF.CSV
+[MAX_INT]2_2.CSV
+[PalmLeaf-PL1]Bangli-P77.CSV
+[NoisyOffice]FontLte_Noisew_TR.CSV
+[MAX_INT]9_8.CSV
+[DIBCO_2011]HW_HW1.CSV
+[PalmLeaf-PL1]IIIB-42-1526-P4.CSV
+[cmaterdb4.2]020.CSV
+[NouvelObservateur]16_nouvel-obs_hbhnr300_constructedPdf_Nouvelobs2402PDF.CSV
+[MAX_INT]4_7.CSV
+[MAX_INT]5_11.CSV
+[PalmLeaf-PL1]IIIC-20-1397-P7.CSV
+[S-MS]z64-F8s.CSV
+[S-MS]z68-F3s.CSV
+[NoisyOffice]Fontnte_Noisep_TR.CSV
+[H-DIBCO_2016]HW_6.CSV
+[NoisyOffice]FontLre_Noisew_VA.CSV
+[S-MS]z592-F4s.CSV
+[DIBCO_2017]9.CSV
+[NoisyOffice]Fontnrm_Noisec_TE.CSV
+[MAX_INT]6_3.CSV
+[PalmLeaf-PL1]MB-TaruPramana-P35.CSV
+[S-MS]z65-F7s.CSV
+[NoisyOffice]FontLsm_Noisef_TR.CSV
+[PalmLeaf-PL1]IIIC-20-1397-P4.CSV
+[S-MS]z67-F4s.CSV
+[S-MS]z30-F4s.CSV
+[S-MS]z100-F7s.CSV
+[MAX_INT]9_14.CSV
+[H-DIBCO_2014]HW_H10.CSV
+[cmaterdb4.3]054.CSV
+[PalmLeaf-PL1]JG-01-P9.CSV
+[S-MS]z32-F1s.CSV
+[S-MS]z592-F6s.CSV
+[NouvelObservateur]11_nouvel-obs_hbhnr300_constructedPdf_Nouvelobs2402PDF.CSV
+[NouvelObservateur]43_nouvel-obs_hbhnr300_constructedPdf_Nouvelobs2402PDF.CSV
+[LiveMemory]sbt94_Pag_051.CSV
+[NouvelObservateur]134_nouvel-obs_hbhnr300_constructedPdf_Nouvelobs2402PDF.CSV
+[NoisyOffice]Fontnsm_Noisec_TR.CSV
+[NouvelObservateur]150_nouvel-obs_hbhnr300_constructedPdf_Nouvelobs2402PDF.CSV
+[MAX_INT]6_1.CSV
+[S-MS]z76-F2s.CSV
+[S-MS]z92-F7s.CSV
+[AVE_INT] 10_4.CSV
+[MAX_INT]6_5.CSV
+[S-MS]z27-F4s.CSV
+[NoisyOffice]FontLrm_Noisef_VA.CSV
+[MAX_INT]5_15.CSV
+[PalmLeaf-PL1]IIIB-12-306-P1.CSV
+[AVE_INT] 6_3.CSV
+[S-MS]z80-F3s.CSV
+[S-MS]z32-F6s.CSV
+[DIBCO_2009]HW_H04.CSV
+[S-MS]z82-F6s.CSV
+[AVE_INT] 5_6.CSV
+[NoisyOffice]FontLte_Noisef_VA.CSV
+[DIBCO_2009]MP_P03.CSV
+[AVE_INT] 2_3.CSV
+[Nabuco]0073.CSV
+[MAX_INT]9_4.CSV
+[NouvelObservateur]106_nouvel-obs_hbhnr300_constructedPdf_Nouvelobs2402PDF.CSV
+[MAX_INT]8_9.CSV
+[MAX_INT]7_1.CSV
+[S-MS]z31-F4s.CSV
+[NouvelObservateur]204_nouvel-obs_hbhnr300_constructedPdf_Nouvelobs2402PDF.CSV
+[Salzinnes]017.CSV
+[S-MS]z82-F7s.CSV
+[S-MS]z38-F3s.CSV
+[NoisyOffice]Fontftm_Noisep_TE.CSV
+[NoisyOffice]FontLtm_Noisew_TR.CSV
+[MAX_INT]7_6.CSV
+[AVE_INT] 9_6.CSV
+[Einsieldeln]e-codices_sbe-0611_002v_Layered.CSV
+[S-MS]z70-F1s.CSV
+[NouvelObservateur]104_nouvel-obs_hbhnr300_constructedPdf_Nouvelobs2402PDF.CSV
+[S-MS]z822-F1s.CSV
+[PHIBD_2012]HW_Persian09.CSV
+[NoisyOffice]Fontnrm_Noisec_TR.CSV
+[S-MS]z34-F4s.CSV
+[S-MS]z32-F2s.CSV
+[NoisyOffice]FontLtm_Noisew_VA.CSV
+[MAX_INT]3_5.CSV
+[S-MS]z48-F8s.CSV
+[H-DIBCO_2014]HW_H05.CSV
+[NoisyOffice]FontLsm_Noisef_TE.CSV
+[S-MS]z90-F6s.CSV
+[MAX_INT]10_5.CSV
+[Nabuco]0042.CSV
+[S-MS]z822-F5s.CSV
+[NoisyOffice]Fontfrm_Noisew_TR.CSV
+[NoisyOffice]FontLsm_Noisew_VA.CSV
+[AVE_INT] 3_5.CSV
+[NoisyOffice]Fontfrm_Noisew_VA.CSV
+[NoisyOffice]Fontnsm_Noisew_VA.CSV
+[NoisyOffice]Fontnse_Noisec_TR.CSV
+[AVE_INT] 8_11.CSV
+[S-MS]z90-F8s.CSV
+[RahulSharma]image00b.CSV
+[S-MS]z70-F4s.CSV
+[DIBCO_2017]1.CSV
+[Nabuco]0021.CSV
+[AVE_INT] 9_13.CSV
+[NouvelObservateur]118_nouvel-obs_hbhnr300_constructedPdf_Nouvelobs2402PDF.CSV
+[NouvelObservateur]68_nouvel-obs_hbhnr300_constructedPdf_Nouvelobs2402PDF.CSV
+[NouvelObservateur]122_nouvel-obs_hbhnr300_constructedPdf_Nouvelobs2402PDF.CSV
+[PalmLeaf-PL1]MB-TaruPramana-P38.CSV
+[NouvelObservateur]80_nouvel-obs_hbhnr300_constructedPdf_Nouvelobs2402PDF.CSV
+[DIBCO_2017]6.CSV
+[MAX_INT]6_14.CSV
+[PalmLeaf-PL1]JG-05-P7.CSV
+[S-MS]z100-F1s.CSV
+[S-MS]z35-F3s.CSV
+[PalmLeaf-PL1]JG-01-P6.CSV
+[MAX_INT]2_9.CSV
+[PalmLeaf-PL1]IIIC-20-1397-P3.CSV
+[cmaterdb4.2]060.CSV
+[NouvelObservateur]180_nouvel-obs_hbhnr300_constructedPdf_Nouvelobs2402PDF.CSV
+[NoisyOffice]Fontfsm_Noisew_VA.CSV
+[NoisyOffice]Fontfte_Noisef_TR.CSV
+[DIBCO_2009]MP_P01.CSV
+[S-MS]z92-F1s.CSV
+[MAX_INT]9_3.CSV
+[S-MS]z100-F4s.CSV
+[NoisyOffice]FontLse_Noisew_TE.CSV
+[PalmLeaf-PL1]MB-TaruPramana-P32.CSV
+[MAX_INT]7_12.CSV
+[NoisyOffice]FontLre_Noisec_VA.CSV
+[MAX_INT]10_10.CSV
+[S-MS]z92-F5s.CSV
+[PalmLeaf-PL1]JG-01-P5.CSV
+[Nabuco]0079.CSV
+[MAX_INT]3_10.CSV
+[S-MS]z31-F2s.CSV
+[MAX_INT]4_6.CSV
+[NoisyOffice]Fontntm_Noisec_TE.CSV
+[AVE_INT] 8_12.CSV
+[S-MS]z38-F1s.CSV
+[PalmLeaf-PL1]IIIB-45-2296-P5.CSV
+[S-MS]z34-F3s.CSV
+[MAX_INT]5_14.CSV
+[NoisyOffice]Fontnre_Noisec_TR.CSV
+[AVE_INT] 9_1.CSV
+[NoisyOffice]Fontfsm_Noisep_TR.CSV
+[NoisyOffice]FontLte_Noisef_TR.CSV
+[MAX_INT]3_7.CSV
+[NoisyOffice]Fontnre_Noisef_VA.CSV
+[DIBCO_2012]HW_H12.CSV
+[NoisyOffice]FontLse_Noisec_TE.CSV
+[AVE_INT] 7_9.CSV
+[NouvelObservateur]7_nouvel-obs_hbhnr300_constructedPdf_Nouvelobs2402PDF.CSV
+[NoisyOffice]FontLte_Noisep_TE.CSV
+[S-MS]z95-F3s.CSV
+[MAX_INT]10_15.CSV
+[NouvelObservateur]178_nouvel-obs_hbhnr300_constructedPdf_Nouvelobs2402PDF.CSV
+[NoisyOffice]Fontnre_Noisep_TR.CSV
+[MAX_INT]9_10.CSV
+[NoisyOffice]FontLse_Noisef_TE.CSV
+[S-MS]z34-F6s.CSV
+[Nabuco]0048.CSV
+[DIBCO_2009]HW_H05.CSV
+[PalmLeaf-PL1]WN-P2.CSV
+[S-MS]z92-F2s.CSV
+[PalmLeaf-PL1]IIIC-20-1397-P8.CSV
+[PalmLeaf-PL1]IIIB-42-1526-P3.CSV
+[cmaterdb4.3]008.CSV
+[AVE_INT] 9_7.CSV
+[NoisyOffice]Fontnte_Noisep_TE.CSV
+[NoisyOffice]FontLre_Noisef_VA.CSV
+[S-MS]z27-F1s.CSV
+[PalmLeaf-PL1]MB-TaruPramana-P33.CSV
+[cmaterdb4.3]066.CSV
+[cmaterdb4.3]067.CSV
+[S-MS]z76-F7s.CSV
+[PHIBD_2012]HW_Persian05.CSV
+[NoisyOffice]Fontfse_Noisec_TE.CSV
+[NouvelObservateur]14_nouvel-obs_hbhnr300_constructedPdf_Nouvelobs2402PDF.CSV
+[NoisyOffice]FontLre_Noisew_TR.CSV
+[S-MS]z100-F8s.CSV
+[NoisyOffice]Fontntm_Noisef_VA.CSV
+[AVE_INT] 3_6.CSV
+[NoisyOffice]Fontfte_Noisec_TR.CSV
+[NouvelObservateur]60_nouvel-obs_hbhnr300_constructedPdf_Nouvelobs2402PDF.CSV
+[AVE_INT] 7_11.CSV
+[PalmLeaf-PL1]IIA-5-789-P4.CSV
+[H-DIBCO_2010]HW_H06.CSV
+[S-MS]z35-F5s.CSV
+[H-DIBCO_2010]HW_H07.CSV
+[S-MS]z70-F7s.CSV
+[NouvelObservateur]132_nouvel-obs_hbhnr300_constructedPdf_Nouvelobs2402PDF.CSV
+[NoisyOffice]Fontfre_Noisep_TR.CSV
+[NoisyOffice]Fontnsm_Noisep_TR.CSV
+[AVE_INT] 4_13.CSV
+[Einsieldeln]e-codices_sbe-0611_002r_Layered.CSV
+[cmaterdb4.3]088.CSV
+[AVE_INT] 10_12.CSV
+[NouvelObservateur]154_nouvel-obs_hbhnr300_constructedPdf_Nouvelobs2402PDF.CSV
+[S-MS]z30-F6s.CSV
+[S-MS]z67-F3s.CSV
+[PalmLeaf-PL1]Bangli-P13.CSV
+[PalmLeaf-PL1]JG-01-P4.CSV
+[NoisyOffice]Fontnre_Noisef_TE.CSV
+[S-MS]z35-F2s.CSV
+[MAX_INT]3_6.CSV
+[cmaterdb4.2]048.CSV
+[S-MS]z582-F6s.CSV
+[S-MS]z36-F3s.CSV
+[NoisyOffice]Fontfte_Noisew_TE.CSV
+[PalmLeaf-PL1]IIA-10-1534-P4.CSV
+[AVE_INT] 8_15.CSV
+[cmaterdb4.3]024.CSV
+[AVE_INT] 10_3.CSV
+[S-MS]z38-F8s.CSV
+[S-MS]z35-F1s.CSV
+[DIBCO_2011]MP_PR8.CSV
+[NoisyOffice]Fontfrm_Noisec_TE.CSV
+[DIBCO_2012]HW_H01.CSV
+[S-MS]z822-F3s.CSV
+[NoisyOffice]Fontnrm_Noisew_VA.CSV
+[S-MS]z43-F2s.CSV
+[cmaterdb4.3]058.CSV
+[MAX_INT]5_3.CSV
+[AVE_INT] 7_8.CSV
+[DIBCO_2019]4.CSV
+[NoisyOffice]Fontnse_Noisew_TR.CSV
+[S-MS]z582-F5s.CSV
+[DIBCO_2012]HW_H02.CSV
+[PalmLeaf-PL1]IIIC-19-1293-P7.CSV
+[DIBCO_2017]4.CSV
+[DIBCO_2019]2.CSV
+[S-MS]z67-F8s.CSV
+[AVE_INT] 6_5.CSV
+[PalmLeaf-PL1]IIIB-12-306-P3.CSV
+[DIBCO_2019]19.CSV
+[S-MS]z43-F1s.CSV
+[S-MS]z35-F7s.CSV
+[NoisyOffice]FontLsm_Noisew_TE.CSV
+[PalmLeaf-PL1]IIIB-12-306-P7.CSV
+[AVE_INT] 5_14.CSV
+[PalmLeaf-PL1]MB-TaruPramana-P26.CSV
+[AVE_INT] 6_14.CSV
+[S-MS]z592-F1s.CSV
+[PalmLeaf-PL1]MB-TaruPramana-P29.CSV
+[MAX_INT]4_2.CSV
+[NoisyOffice]Fontntm_Noisep_TE.CSV
+[NouvelObservateur]65_nouvel-obs_hbhnr300_constructedPdf_Nouvelobs2402PDF.CSV
+[NouvelObservateur]139_nouvel-obs_hbhnr300_constructedPdf_Nouvelobs2402PDF.CSV
+[NouvelObservateur]28_nouvel-obs_hbhnr300_constructedPdf_Nouvelobs2402PDF.CSV
+[PalmLeaf-PL1]IIIC-19-1293-P1.CSV
+[MAX_INT]9_11.CSV
+[S-MS]z82-F2s.CSV
+[AVE_INT] 4_7.CSV
+[RahulSharma]paper3b.CSV
+[MAX_INT]4_8.CSV
+[MAX_INT]7_3.CSV
+[NoisyOffice]Fontfrm_Noisep_TR.CSV
+[NouvelObservateur]190_nouvel-obs_hbhnr300_constructedPdf_Nouvelobs2402PDF.CSV
+[NoisyOffice]Fontfre_Noisec_TE.CSV
+[S-MS]z822-F4s.CSV
+[H-DIBCO_2014]HW_H07.CSV
+[DIBCO_2012]HW_H03.CSV
+[MAX_INT]8_7.CSV
+[NoisyOffice]Fontnse_Noisep_VA.CSV
+[DIBCO_2011]MP_PR7.CSV
+[NouvelObservateur]124_nouvel-obs_hbhnr300_constructedPdf_Nouvelobs2402PDF.CSV
+[MAX_INT]2_15.CSV
+[NoisyOffice]Fontnte_Noisew_TR.CSV
+[NouvelObservateur]54_nouvel-obs_hbhnr300_constructedPdf_Nouvelobs2402PDF.CSV
+[PalmLeaf-PL1]WN-P1b.CSV
+[NouvelObservateur]82_nouvel-obs_hbhnr300_constructedPdf_Nouvelobs2402PDF.CSV
+[S-MS]z37-F7s.CSV
+[MAX_INT]5_9.CSV
+[LiveMemory]sbt88_pag_257.CSV
+[NoisyOffice]FontLrm_Noisec_TR.CSV
+[MAX_INT]9_6.CSV
+[MAX_INT]10_7.CSV
+[AVE_INT] 9_2.CSV
+[DIBCO_2019]5.CSV
+[PalmLeaf-PL1]IIIB-45-2296-P6.CSV
+[DIBCO_2011]HW_HW7.CSV
+[DIBCO_2019]17.CSV
+[S-MS]z60-F2s.CSV
+[AVE_INT] 4_15.CSV
+[S-MS]z59-F3s.CSV
+[DIBCO_2011]MP_PR6.CSV
+[NouvelObservateur]170_nouvel-obs_hbhnr300_constructedPdf_Nouvelobs2402PDF.CSV
+[PalmLeaf-PL1]IIIC-19-1293-P4.CSV
+[NoisyOffice]Fontfsm_Noisew_TE.CSV
+[NoisyOffice]Fontfsm_Noisec_TR.CSV
+[PalmLeaf-PL1]MB-TaruPramana-P39.CSV
+[AVE_INT] 8_7.CSV
+[S-MS]z27-F8s.CSV
+[MAX_INT]4_10.CSV
+[PalmLeaf-PL1]Bangli-P11.CSV
+[AVE_INT] 3_3.CSV
+[PalmLeaf-PL1]IIIC-23-1506-P1.CSV
+[NoisyOffice]Fontfrm_Noisep_TE.CSV
+[NoisyOffice]Fontnsm_Noisep_TE.CSV
+[Salzinnes]011.CSV
+[NouvelObservateur]110_nouvel-obs_hbhnr300_constructedPdf_Nouvelobs2402PDF.CSV
+[DIBCO_2017]8.CSV
+[MAX_INT]3_15.CSV
+[AVE_INT] 10_2.CSV
+[AVE_INT] 3_8.CSV
+[Nabuco]0027.CSV
+[cmaterdb4.3]093.CSV
+[MAX_INT]9_13.CSV
+[S-MS]z100-F5s.CSV
+[H-DIBCO_2010]HW_H09.CSV
+[NoisyOffice]FontLrm_Noisew_TE.CSV
+[NouvelObservateur]77_nouvel-obs_hbhnr300_constructedPdf_Nouvelobs2402PDF.CSV
+[NouvelObservateur]151_nouvel-obs_hbhnr300_constructedPdf_Nouvelobs2402PDF.CSV
+[Salzinnes]009.CSV
+[AVE_INT] 8_6.CSV
+[AVE_INT] 3_13.CSV
+[NouvelObservateur]8_nouvel-obs_hbhnr300_constructedPdf_Nouvelobs2402PDF.CSV
+[cmaterdb4.2]074.CSV
+[S-MS]z59-F8s.CSV
+[NoisyOffice]Fontnre_Noisef_TR.CSV
+[S-MS]z70-F8s.CSV
+[LiveMemory]sbt94_Pag_321.CSV
+[AVE_INT] 8_5.CSV
+[NoisyOffice]Fontnse_Noisec_VA.CSV
+[NouvelObservateur]30_nouvel-obs_hbhnr300_constructedPdf_Nouvelobs2402PDF.CSV
+[NoisyOffice]Fontfrm_Noisef_TE.CSV
+[cmaterdb4.3]001.CSV
+[AVE_INT] 5_13.CSV
+[NoisyOffice]FontLse_Noisef_VA.CSV
+[NoisyOffice]Fontftm_Noisef_VA.CSV
+[MAX_INT]8_3.CSV
+[PalmLeaf-PL1]IIIC-24-1641-P2.CSV
+[S-MS]z59-F5s.CSV
+[AVE_INT] 9_15.CSV
+[NoisyOffice]FontLsm_Noisew_TR.CSV
+[S-MS]z68-F8s.CSV
+[MAX_INT]7_2.CSV
+[NoisyOffice]Fontfre_Noisef_VA.CSV
+[NouvelObservateur]86_nouvel-obs_hbhnr300_constructedPdf_Nouvelobs2402PDF.CSV
+[Nabuco]0062.CSV
+[RahulSharma]image00d.CSV
+[NouvelObservateur]92_nouvel-obs_hbhnr300_constructedPdf_Nouvelobs2402PDF.CSV
+[AVE_INT] 7_1.CSV
+[DIBCO_2012]HW_H14.CSV
+[cmaterdb4.2]002.CSV
+[NouvelObservateur]186_nouvel-obs_hbhnr300_constructedPdf_Nouvelobs2402PDF.CSV
+[S-MS]z582-F3s.CSV
+[MAX_INT]2_11.CSV
+[S-MS]z48-F4s.CSV
+[DIBCO_2013]HW_HW05.CSV
+[AVE_INT] 5_7.CSV
+[DIBCO_2019]6.CSV
+[Einsieldeln]e-codices_sbe-0611_001v_Layered.CSV
+[MAX_INT]9_12.CSV
+[DIBCO_2017]18.CSV
+[S-MS]z30-F1s.CSV
+[MAX_INT]2_7.CSV
+[MAX_INT]3_13.CSV
+[NoisyOffice]Fontfte_Noisef_TE.CSV
+[NouvelObservateur]162_nouvel-obs_hbhnr300_constructedPdf_Nouvelobs2402PDF.CSV
+[PalmLeaf-PL1]IIIC-19-1293-P8.CSV
+[DIBCO_2009]MP_P05.CSV
+[Salzinnes]016.CSV
+[AVE_INT] 5_12.CSV
+[NouvelObservateur]158_nouvel-obs_hbhnr300_constructedPdf_Nouvelobs2402PDF.CSV
+[Salzinnes]015.CSV
+[S-MS]z48-F1s.CSV
+[NoisyOffice]FontLre_Noisep_TE.CSV
+[NoisyOffice]Fontntm_Noisec_TR.CSV
+[NouvelObservateur]95_nouvel-obs_hbhnr300_constructedPdf_Nouvelobs2402PDF.CSV
+[MAX_INT]7_5.CSV
+[S-MS]z68-F7s.CSV
+[S-MS]z37-F6s.CSV
+[NoisyOffice]Fontfsm_Noisef_VA.CSV
+[MAX_INT]2_6.CSV
+[NouvelObservateur]20_nouvel-obs_hbhnr300_constructedPdf_Nouvelobs2402PDF.CSV
+[DIBCO_2017]11.CSV
+[PalmLeaf-PL1]IIIB-45-2296-P1.CSV
+[MAX_INT]6_8.CSV
+[DIBCO_2009]HW_H03.CSV
+[NoisyOffice]FontLtm_Noisef_TE.CSV
+[NoisyOffice]Fontfsm_Noisec_TE.CSV
+[NouvelObservateur]177_nouvel-obs_hbhnr300_constructedPdf_Nouvelobs2402PDF.CSV
+[NouvelObservateur]149_nouvel-obs_hbhnr300_constructedPdf_Nouvelobs2402PDF.CSV
+[H-DIBCO_2014]HW_H02.CSV
+[PalmLeaf-PL1]IIA-5-789-P1.CSV
+[S-MS]z27-F6s.CSV
+[S-MS]z30-F3s.CSV
+[S-MS]z64-F6s.CSV
+[DIBCO_2011]HW_HW4.CSV
+[MAX_INT]6_15.CSV
+[PHIBD_2012]HW_Persian08.CSV
