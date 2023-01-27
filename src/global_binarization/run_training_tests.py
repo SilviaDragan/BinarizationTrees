@@ -22,8 +22,8 @@ def run_global(no_runs):
         f = open(fname, "w")
 
         best_trees = choose_best_trees(files)
-        for tree in best_trees:
-            print(str(tree[1]))
+        # for tree in best_trees:
+        #     print(str(tree[1]))
 
         if len(best_trees) == 0:
             print("No trees found")
@@ -49,7 +49,7 @@ def run_local(no_runs):
 
 if __name__ == '__main__':
     argv = sys.argv
-    print(argv)
+    # print(argv)
     no_runs = int(argv[1])
     run_global(no_runs)
 

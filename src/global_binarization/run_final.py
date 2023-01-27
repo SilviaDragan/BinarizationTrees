@@ -48,7 +48,7 @@ def choose_final_trees():
     winners = compare_final_trees(test_files, trees)
     f = open("winners/winners", "w")
     for w in winners:
-        format_float = "{:.3f}".format(w[0])
+        format_float = "{:.3f}".format(w[0] * 100)
         f.write(f"Tree {w[1]} with {format_float}% success rate \n")
 
 

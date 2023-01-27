@@ -8,9 +8,9 @@ from commons.tree_generation import generate_tree, populate_tree_with_thresholds
 from commons.tree_evaluation import evaluate_tree
 
 # N = 100 se misca destul de repede, 500 ceva mai mult
-N = 100  # number of trees to generate
+N = 500  # number of trees to generate
 NO_LEAVES = 15  # number of leaves in each global binarization tree
-MIN_F_MEASURE = 90  # minimum f-measure score for a threshold to be considered a match
+MIN_F_MEASURE = 50  # minimum f-measure score for a threshold to be considered a match
 NO_TREES_RETURNED = 50
 NO_FINAL_TREES = 3
 

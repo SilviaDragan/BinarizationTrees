@@ -5,6 +5,6 @@ from commons.tree_generation import generate_tree
 
 def main():
     root = generate_tree(9)
-    print(root)
+    # print(root)
 if __name__ == '__main__':
     main()
